@@ -1,0 +1,21 @@
+.search {
+    border: solid seagreen;
+    border-radius: 15px;
+    color:rgb(31, 151, 31);
+}
+
+.plus {
+    border-radius: 50%;
+    background-color:lightseagreen;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+
+.create_account {
+    background-color:cornflowerblue;
+    color: white;
+    box-shadow: 2px 2px black;
+    border-color: black;
+    font-weight: lighter;
+}
